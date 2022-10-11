@@ -1,4 +1,4 @@
-<p align='center'><img src='https://i.ibb.co/k0DpB63/Md-Imran-Hossain.gif' width='100%' /> </p>
+<p align='center'><img src='https://i.ibb.co/sqRz3jw/Md-Imran-Hossain.gif' /> </p>
 <h1 align="center">Hi 👋, I'm Md Imran Hossain</h1>
 <h3 align="center">I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</h3>
 <img align="right" alt="Coding" width="400" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif"/>
