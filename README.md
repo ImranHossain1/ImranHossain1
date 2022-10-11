@@ -268,13 +268,13 @@
   :white_check_mark:React-Hook
     </td>
     <td>
-    :ballot_box_with_check:Next-JS
+    :ballot_box_with_check:Amazon Web Services
     <br/>
-    :ballot_box_with_check:React-Native
+    :ballot_box_with_check:Django
     <br/>
-    :ballot_box_with_check:GraphQL
+    :ballot_box_with_check:ASP.net
     <br/>
-    :ballot_box_with_check:D3.js
+    :ballot_box_with_check:Postman
     </td>
     <td></td>
   </tr>
