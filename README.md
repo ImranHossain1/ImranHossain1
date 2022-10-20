@@ -231,6 +231,10 @@
   :ballot_box_with_check:JWT
   <br/>
   :ballot_box_with_check:Firebase Authentication
+  <br/>
+  :ballot_box_with_check:Redux
+  <br/>
+  :ballot_box_with_check:Redux-saga
 </td>
 <td>
   :white_check_mark:Express
