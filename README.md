@@ -280,7 +280,16 @@
     <br/>
     :ballot_box_with_check:Postman
     </td>
-    <td></td>
+    <td>
+       :ballot_box_with_check:ESlint
+        <br/>
+      :ballot_box_with_check:Prettier
+        <br/>
+      :ballot_box_with_check:Husky
+        <br/>
+      :ballot_box_with_check:Jira
+        <br/>
+    </td>
   </tr>
   <tr>
     <td>
