@@ -304,13 +304,13 @@
     :ballot_box_with_check:CSS3
     </td>
     <td>
-      :ballot_box_with_check:Next Js
+       :white_check_mark:Next Js
      <br/>
-    :ballot_box_with_check:Prisma
+    :white_check_mark:Prisma
        <br/>
-    :ballot_box_with_check:AWS
+    :white_check_mark:AWS
       <br/>
-    :ballot_box_with_check:Docker
+     :white_check_mark:Docker
       </td>
     <td></td>
   </tr>
