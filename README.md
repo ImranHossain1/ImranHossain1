@@ -281,13 +281,13 @@
     :ballot_box_with_check:Postman
     </td>
     <td>
-       :ballot_box_with_check:ESlint
+       :white_check_mark:ESlint
         <br/>
-      :ballot_box_with_check:Prettier
+      :white_check_mark:Prettier
         <br/>
-      :ballot_box_with_check:Husky
+      :white_check_mark:Husky
         <br/>
-      :ballot_box_with_check:Jira
+     :white_check_mark:Jira
         <br/>
     </td>
   </tr>
@@ -303,7 +303,15 @@
     <br/>
     :ballot_box_with_check:CSS3
     </td>
-    <td></td>
+    <td>
+      :ballot_box_with_check:Next Js
+     <br/>
+    :ballot_box_with_check:Prisma
+       <br/>
+    :ballot_box_with_check:AWS
+      <br/>
+    :ballot_box_with_check:Docker
+      </td>
     <td></td>
   </tr>
 </table>
