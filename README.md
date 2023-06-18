@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imranhossain1&label=Profile%20views&color=0e75b6&style=flat" alt="imranhossain1" /> </p>
 
-- 🔭 I’m currently working on [University Management System]([https://github.com/ImranHossain1/inventory-management-system](https://github.com/ImranHossain1/university-management-auth-service))
+- 🔭 I’m currently working on [University-Management-System]([https://github.com/ImranHossain1/inventory-management-system](https://github.com/ImranHossain1/university-management-auth-service))
 
 - 🌱 I’m currently learning **Amazon Web Services**
 
