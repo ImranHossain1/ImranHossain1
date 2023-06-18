@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [University-Management-System](https://github.com/ImranHossain1/inventory-management-system)
 
-- 🌱 I’m currently learning **Amazon Web Services**
+- 🌱 I’m currently learning **AWS Solution Architect**
 
 - 👨‍💻 All of my projects are available at [https://mdimranhossainportfolio.netlify.app/](https://mdimranhossainportfolio.netlify.app/)
 
