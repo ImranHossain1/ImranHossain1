@@ -215,8 +215,8 @@
 </p>
 <table>
 <tr>
-<th> Expertise </th>
-<th> Comfortable </th>
+<th> Frontend </th>
+<th> Backend </th>
   
 <th> Tools </th>
 </tr>
@@ -226,14 +226,6 @@
   <br/>
   :ballot_box_with_check:Nextjs 
   <br/>
-  :ballot_box_with_check:Nodejs 
-  <br/>
-  :ballot_box_with_check:Express.js 
-  <br/>
-  :ballot_box_with_check:MongoDb 
-  <br/>
-  :ballot_box_with_check:Prisma 
-  <br/>
   :ballot_box_with_check:React-JS
   <br/>
   :ballot_box_with_check:JWT
@@ -241,19 +233,15 @@
   :ballot_box_with_check:Firebase Authentication
   <br/>
   :ballot_box_with_check:Redux
-  <br/>
-  :ballot_box_with_check:Redux-saga
 </td>
 <td>
   :white_check_mark:Express
   <br/>
   :white_check_mark:Node-JS
   <br/>
-  :white_check_mark:Stripe
+  :white_check_mark:Django
   <br/>
-  :white_check_mark:MongoDB
-  <br/>
-  :white_check_mark:Re-Chart
+  :white_check_mark:ASP.Net
 </td>
   <td>
   :ballot_box_with_check:Git
@@ -277,14 +265,15 @@
   <br/>
   :white_check_mark:Axios
   <br/>
-  :white_check_mark:React-Hook
+  :white_check_mark: Redux
+    </td>:white_check_mark: Ant Design
     </td>
     <td>
     :ballot_box_with_check:Amazon Web Services
     <br/>
-    :ballot_box_with_check:Django
+    :ballot_box_with_check:Docker
     <br/>
-    :ballot_box_with_check:ASP.net
+    :ballot_box_with_check:Kubernetes
     <br/>
     :ballot_box_with_check:Postman
     </td>
