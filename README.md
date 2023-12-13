@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://mdimranhossainportfolio.netlify.app/](https://mdimranhossainportfolio.netlify.app/)
 
-- 💬 Ask me about **ReactJs, NodeJs, Amazon Web Services**
+- 💬 Ask me about **ReactJs, Nextjs, Redux, NodeJs, Expressjs, Mongoose, Prisma, Docker, Kuberneted Amazon Web Services**
 
 - 📫 How to reach me **imranhossain1402@gmail.com**
 
