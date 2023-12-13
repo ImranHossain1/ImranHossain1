@@ -224,7 +224,15 @@
 <td>
   :ballot_box_with_check:JavaScript
   <br/>
-  :ballot_box_with_check:ES6 
+  :ballot_box_with_check:Nextjs 
+  <br/>
+  :ballot_box_with_check:Nodejs 
+  <br/>
+  :ballot_box_with_check:Express.js 
+  <br/>
+  :ballot_box_with_check:MongoDb 
+  <br/>
+  :ballot_box_with_check:Prisma 
   <br/>
   :ballot_box_with_check:React-JS
   <br/>
