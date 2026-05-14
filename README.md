@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=28&pause=1000&color=00B8D4&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Md+Imran+Hossain;Machine+Learning+Engineer;LLMs+%7C+Computer+Vision+%7C+MLOps;Building+intelligent+systems+in+production" alt="typing banner" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=28&pause=1000&color=00B8D4&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Md+Imran+Hossain;Machine+Learning+Engineer;LLMs+%7C+Computer+Vision+%7C+MLOps;" alt="typing banner" />
 
 📍 Frankfurt am Main, Germany &nbsp;•&nbsp; 🤖 ML Engineer @ Honda R&D Europe
 
@@ -81,16 +81,16 @@ I'm a **Machine Learning Engineer** building intelligent systems at the intersec
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech | Links |
-|---|---|---|---|
-| **🧠 Vehicle Dynamic Perception** | Multimodal emotion recognition from EEG, ECG, respiration & heart-rate data of 100 participants — **85% accuracy**. | EEG/ECG · MNE · Random Forest · DL | — |
-| **💬 ResearchMate Chatbot** | LLM-powered research pipeline converting natural language into structured vector-DB queries. Deployed end-to-end with GitLab CI/CD + Nginx. | LLM · Vector DB · CI/CD | — |
-| **🏙️ Digital Twin Nibelungenplatz** | Multi-view traffic perception with YOLOv7 + a 3D digital-twin simulation on the Dassault platform. | Python · YOLOv7 · OpenCV | — |
-| **💊 Diabetes Risk Prediction** | Ensembled Logistic Regression, Random Forest & XGBoost — **75% accuracy**, deployed on Hugging Face. | Scikit-learn · Gradio | [Code](https://github.com/ImranHossain1/Diabetec_classifier_predictor) · [Demo](https://huggingface.co/spaces/ImranHossain1/Diabetes_classifier_predictor) |
-| **🌿 Plant Disease Recognition** | Deep CNN classifying **36 plant-disease classes** from the PlantVillage dataset — **91% accuracy**. | PyTorch · CNN · Computer Vision | — |
-| **🧩 Plate Generator** | React app for designing custom wall plates with continuous motif patterns, drag-and-drop editing, live preview & PNG export. | React 19 · TS · React-Konva · dnd-kit | [Code](https://github.com/ImranHossain1/plate-generator-task) · [Demo](https://plate-generator-task.vercel.app/) |
-| **🎓 University Management System** | Full-stack academic platform with role-based access and a microservices architecture. | Next.js · Express · PostgreSQL · Redis | [Code](https://github.com/ImranHossain1/university-management-frontend) |
-| **🚌 Highway Hoppers** | Transportation management system — bus booking, schedules & role-based dashboards. | Next.js · Express · PostgreSQL · Docker | [Code](https://github.com/ImranHossain1/highway-hoppers-frontend) |
+| Project                             | Description                                                                                                                                 | Tech                                    | Links                                                                                                                                                      |
+| ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **🧠 Vehicle Dynamic Perception**   | Multimodal emotion recognition from EEG, ECG, respiration & heart-rate data of 100 participants — **85% accuracy**.                         | EEG/ECG · MNE · Random Forest · DL      | —                                                                                                                                                          |
+| **💬 ResearchMate Chatbot**         | LLM-powered research pipeline converting natural language into structured vector-DB queries. Deployed end-to-end with GitLab CI/CD + Nginx. | LLM · Vector DB · CI/CD                 | —                                                                                                                                                          |
+| **🏙️ Digital Twin Nibelungenplatz** | Multi-view traffic perception with YOLOv7 + a 3D digital-twin simulation on the Dassault platform.                                          | Python · YOLOv7 · OpenCV                | —                                                                                                                                                          |
+| **💊 Diabetes Risk Prediction**     | Ensembled Logistic Regression, Random Forest & XGBoost — **75% accuracy**, deployed on Hugging Face.                                        | Scikit-learn · Gradio                   | [Code](https://github.com/ImranHossain1/Diabetec_classifier_predictor) · [Demo](https://huggingface.co/spaces/ImranHossain1/Diabetes_classifier_predictor) |
+| **🌿 Plant Disease Recognition**    | Deep CNN classifying **36 plant-disease classes** from the PlantVillage dataset — **91% accuracy**.                                         | PyTorch · CNN · Computer Vision         | —                                                                                                                                                          |
+| **🧩 Plate Generator**              | React app for designing custom wall plates with continuous motif patterns, drag-and-drop editing, live preview & PNG export.                | React 19 · TS · React-Konva · dnd-kit   | [Code](https://github.com/ImranHossain1/plate-generator-task) · [Demo](https://plate-generator-task.vercel.app/)                                           |
+| **🎓 University Management System** | Full-stack academic platform with role-based access and a microservices architecture.                                                       | Next.js · Express · PostgreSQL · Redis  | [Code](https://github.com/ImranHossain1/university-management-frontend)                                                                                    |
+| **🚌 Highway Hoppers**              | Transportation management system — bus booking, schedules & role-based dashboards.                                                          | Next.js · Express · PostgreSQL · Docker | [Code](https://github.com/ImranHossain1/highway-hoppers-frontend)                                                                                          |
 
 > 🌐 Explore everything on my **[live portfolio →](https://imranhossain14.netlify.app/)**
 
@@ -103,7 +103,7 @@ I'm a **Machine Learning Engineer** building intelligent systems at the intersec
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=ImranHossain1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImranHossain1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ImranHossain1&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://streak-stats.demolab.com/?user=ImranHossain1&theme=tokyonight&hide_border=true" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=ImranHossain1&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
 
