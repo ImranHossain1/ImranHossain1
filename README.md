@@ -9,6 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-imran-hossain-281490119/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imranhossain1402@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ImranHossain1)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00B8D4?style=for-the-badge&logo=netlify&logoColor=white)](https://imranhossain14.netlify.app/)
 ![Profile Views](https://komarev.com/ghpvc/?username=ImranHossain1&style=for-the-badge&color=00b8d4)
 
 </div>
@@ -16,6 +17,8 @@
 ---
 
 ## 🧠 About Me
+
+<img align="right" width="260" src="https://imranhossain14.netlify.app/asset/imran.jpg" alt="Md Imran Hossain" />
 
 I'm a **Machine Learning Engineer** building intelligent systems at the intersection of **LLMs, computer vision, and production MLOps**. Currently at **Honda R&D Europe**, where I lead an LLM-powered research platform for natural-language query generation and vector search.
 
@@ -78,18 +81,18 @@ I'm a **Machine Learning Engineer** building intelligent systems at the intersec
 
 ## 🚀 Featured Projects
 
-| Project                             | Description                                                                                                                                 | Tech                                    | Links                                                                                                                                                      |
-| ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **🧠 Vehicle Dynamic Perception**   | Multimodal emotion recognition from EEG, ECG, respiration & heart-rate data of 100 participants — **85% accuracy**.                         | EEG/ECG · MNE · Random Forest · DL      | —                                                                                                                                                          |
-| **💬 ResearchMate Chatbot**         | LLM-powered research pipeline converting natural language into structured vector-DB queries. Deployed end-to-end with GitLab CI/CD + Nginx. | LLM · Vector DB · CI/CD                 | —                                                                                                                                                          |
-| **🏙️ Digital Twin Nibelungenplatz** | Multi-view traffic perception with YOLOv7 + a 3D digital-twin simulation on the Dassault platform.                                          | Python · YOLOv7 · OpenCV                | —                                                                                                                                                          |
-| **💊 Diabetes Risk Prediction**     | Ensembled Logistic Regression, Random Forest & XGBoost — **75% accuracy**, deployed on Hugging Face.                                        | Scikit-learn · Gradio                   | [Code](https://github.com/ImranHossain1/Diabetec_classifier_predictor) · [Demo](https://huggingface.co/spaces/ImranHossain1/Diabetes_classifier_predictor) |
-| **🌿 Plant Disease Recognition**    | Deep CNN classifying **36 plant-disease classes** from the PlantVillage dataset — **91% accuracy**.                                         | PyTorch · CNN · Computer Vision         | —                                                                                                                                                          |
-| **🧩 Plate Generator**              | React app for designing custom wall plates with continuous motif patterns, drag-and-drop editing, live preview & PNG export.                | React 19 · TS · React-Konva · dnd-kit   | [Code](https://github.com/ImranHossain1/plate-generator-task) · [Demo](https://plate-generator-task.vercel.app/)                                           |
-| **🎓 University Management System** | Full-stack academic platform with role-based access and a microservices architecture.                                                       | Next.js · Express · PostgreSQL · Redis  | [Code](https://github.com/ImranHossain1/university-management-frontend)                                                                                    |
-| **🚌 Highway Hoppers**              | Transportation management system — bus booking, schedules & role-based dashboards.                                                          | Next.js · Express · PostgreSQL · Docker | [Code](https://github.com/ImranHossain1/highway-hoppers-frontend)                                                                                          |
+| Project | Description | Tech | Links |
+|---|---|---|---|
+| **🧠 Vehicle Dynamic Perception** | Multimodal emotion recognition from EEG, ECG, respiration & heart-rate data of 100 participants — **85% accuracy**. | EEG/ECG · MNE · Random Forest · DL | — |
+| **💬 ResearchMate Chatbot** | LLM-powered research pipeline converting natural language into structured vector-DB queries. Deployed end-to-end with GitLab CI/CD + Nginx. | LLM · Vector DB · CI/CD | — |
+| **🏙️ Digital Twin Nibelungenplatz** | Multi-view traffic perception with YOLOv7 + a 3D digital-twin simulation on the Dassault platform. | Python · YOLOv7 · OpenCV | — |
+| **💊 Diabetes Risk Prediction** | Ensembled Logistic Regression, Random Forest & XGBoost — **75% accuracy**, deployed on Hugging Face. | Scikit-learn · Gradio | [Code](https://github.com/ImranHossain1/Diabetec_classifier_predictor) · [Demo](https://huggingface.co/spaces/ImranHossain1/Diabetes_classifier_predictor) |
+| **🌿 Plant Disease Recognition** | Deep CNN classifying **36 plant-disease classes** from the PlantVillage dataset — **91% accuracy**. | PyTorch · CNN · Computer Vision | — |
+| **🧩 Plate Generator** | React app for designing custom wall plates with continuous motif patterns, drag-and-drop editing, live preview & PNG export. | React 19 · TS · React-Konva · dnd-kit | [Code](https://github.com/ImranHossain1/plate-generator-task) · [Demo](https://plate-generator-task.vercel.app/) |
+| **🎓 University Management System** | Full-stack academic platform with role-based access and a microservices architecture. | Next.js · Express · PostgreSQL · Redis | [Code](https://github.com/ImranHossain1/university-management-frontend) |
+| **🚌 Highway Hoppers** | Transportation management system — bus booking, schedules & role-based dashboards. | Next.js · Express · PostgreSQL · Docker | [Code](https://github.com/ImranHossain1/highway-hoppers-frontend) |
 
-> More on my [portfolio](https://github.com/ImranHossain1) and pinned repositories below ⬇️
+> 🌐 Explore everything on my **[live portfolio →](https://imranhossain14.netlify.app/)**
 
 ---
 
@@ -114,6 +117,7 @@ I'm a **Machine Learning Engineer** building intelligent systems at the intersec
 
 I'm open to opportunities in **Machine Learning, LLMs, and MLOps**. Let's build something intelligent.
 
+[![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-00B8D4?style=for-the-badge&logo=netlify&logoColor=white)](https://imranhossain14.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-imran-hossain-281490119/)
 [![Email](https://img.shields.io/badge/Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imranhossain1402@gmail.com)
 
