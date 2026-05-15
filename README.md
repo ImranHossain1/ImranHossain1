@@ -18,8 +18,6 @@
 
 ## 🧠 About Me
 
-<img align="right" width="260" src="https://imranhossain14.netlify.app/asset/imran.jpg" alt="Md Imran Hossain" />
-
 I'm a **Machine Learning Engineer** building intelligent systems at the intersection of **LLMs, computer vision, and production MLOps**. Currently at **Honda R&D Europe**, where I lead an LLM-powered research platform for natural-language query generation and vector search.
 
 - 🔭 Working on LLM research platforms, RAG pipelines, and multimodal perception systems
